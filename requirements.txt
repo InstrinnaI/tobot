@@ -1,4 +1,4 @@
 requests
 beautifulsoup4
-python-telegram-bot==13.16
+python-telegram-bot>=20.0
 PyYAML
